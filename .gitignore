@@ -1,12 +1,8 @@
 # calc folder
-calc/
+#calc/
 
 # API key
 api_key.py
-
-# db and control
-database/
-CONTROL/
 
 # VSCODE line counter
 .vscode/
